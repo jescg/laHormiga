@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+<rect width="400" height="400" fill="#f3f4f6"/>
+<path d="M140 80h120v230h-120z M155 95h90v45h-90z M160 160h20v20h-20z M190 160h20v20h-20z M220 160h20v20h-20z M160 195h20v20h-20z M190 195h20v20h-20z M220 195h20v20h-20z M160 230h20v20h-20z M190 230h20v20h-20z M220 230h20v20h-20z" fill="none" stroke="#37475a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="200" y="360" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#565959">Calculadora</text>
+</svg>

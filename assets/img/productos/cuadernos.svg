@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+<rect width="400" height="400" fill="#f3f4f6"/>
+<path d="M120 100h140v200h-140z M140 100v200 M160 150h80 M160 175h80 M150 90h140v200" fill="none" stroke="#37475a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="200" y="360" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#565959">Cuadernos</text>
+</svg>

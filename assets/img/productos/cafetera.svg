@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+<rect width="400" height="400" fill="#f3f4f6"/>
+<path d="M140 90h120v40h-120z M150 130h100l-10 130h-80z M130 260h140v30h-140z" fill="none" stroke="#37475a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="200" y="360" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#565959">Cafetera</text>
+</svg>

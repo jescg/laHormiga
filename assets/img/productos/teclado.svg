@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+<rect width="400" height="400" fill="#f3f4f6"/>
+<path d="M70 150h260v110h-260z M90 170h220 M90 195h220 M90 220h220 M130 245h140" fill="none" stroke="#37475a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="200" y="360" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#565959">Teclado</text>
+</svg>
