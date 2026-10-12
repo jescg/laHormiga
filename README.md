@@ -10,8 +10,8 @@
 | Profesor | Polanco Montelolgo Farncisco |
 | Alumno | Chávez García Jesua |
 | Boleta | 2019640276 |
-| Programa académico | [Ingeniería en Telemática] |
-| Sitio publicado | [https://yankuilia.com.mx/laHormiga] |
+| Programa académico | Ingeniería en Telemática |
+| Sitio publicado | https://yankuilia.com.mx/laHormiga |
 
 ## Descripción
 
